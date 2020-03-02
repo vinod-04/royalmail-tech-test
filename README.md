@@ -27,7 +27,7 @@ Use your skills to add any additional features / functionality you think would b
 In order to run this react application you will have to run the people.api project simultaneously.
 https://localhost:44355
 
-##.Net libraries added
+## .Net libraries added
 1. AutoMapper
 2. MediatR
 3. Swagger (For API testing)
